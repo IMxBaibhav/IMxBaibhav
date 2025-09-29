@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm <span style="color:#00BFFF">Baibhav Tiwari</span></h1>
 <h3 align="center">A Passionate Frontend Developer from India 🇮🇳</h3>
 
@@ -10,25 +9,29 @@
   <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="1000"/>
 </p>
 
-
-
 ---
 
 ## 🧠 About Me
 
-- 🔭 Currently working on **React js**
-- 🌱 Learning **Java Full Stack**
-- 👯 Open to collaborate on **Full Stack Projects**
-- 🤝 Looking for help with **Openshift**
-- 💬 Ask me about **React.js**
+- 🔭 Currently working on **React js**  
+- 🌱 Learning **Java Full Stack**  
+- 👯 Open to collaborate on **Full Stack Projects**  
+- 🤝 Looking for help with **Openshift**  
+- 💬 Ask me about **React.js**  
 - ⚡ Fun fact: **I am a Gamer 🎮**
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lexendx&theme=radical&margin-w=15&margin-h=15" />
+  <img src="https://img.shields.io/badge/🏆%20Open%20Source-Contributor-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔥%20100%2B%20Commits-This%20Year-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡%20Active%20Coder-Always-green?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="250" alt="Trophy GIF"/>
 </p>
 
 ---
@@ -40,7 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45"/>
@@ -51,11 +54,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lexendx&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lexendx&layout=compact&theme=radical" width="49%" />
+  <img src="https://img.shields.io/badge/👨‍💻%20Daily%20Commits-Consistent-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📂%20Repositories-10%2B-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⭐%20Stars-50%2B-yellow?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0Iyl55kTeh71nTXy/giphy.gif" width="400" alt="Coding GIF"/>
 </p>
 
 ---
