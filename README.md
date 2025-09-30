@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#00BFFF">Baibhav Tiwari</span></h1>
-<h3 align="center">A Passionate Frontend Developer from India..</h3>
+<h3 align="center">A Passionate Frontend Developer from India</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=lexendx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="1000"/>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Currently working on **React js**  
+- 🔭 Currently working on **React.js**  
 - 🌱 Learning **Java Full Stack**  
 - 👯 Open to collaborate on **Full Stack Projects**  
 - 🤝 Looking for help with **Openshift**  
