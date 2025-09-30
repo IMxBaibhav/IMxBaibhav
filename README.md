@@ -62,10 +62,6 @@
   <img src="https://img.shields.io/badge/⭐%20Stars-50%2B-yellow?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0Iyl55kTeh71nTXy/giphy.gif" width="400" alt="Coding GIF"/>
-</p>
-
 ---
 
 ## 📫 Connect With Me
