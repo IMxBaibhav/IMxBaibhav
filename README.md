@@ -26,9 +26,7 @@
   <img src="https://img.shields.io/badge/⚡%20Active%20Coder-Always-green?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="250" alt="Trophy GIF"/>
-</p>
+
 
 ---
 
